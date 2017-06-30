@@ -19,7 +19,13 @@
         "InstanceType" : "m3.medium",
         "SecurityGroups" : [ { "Ref" : "InstanceSecurityGroup" } ],
         "KeyName" : { "Ref" : "KeyName" },
-        "ImageId" : "ami-d15a75c7"
+        "ImageId" : "ami-d15a75c7",
+        "UserData" : { "Fn::Base64" : { "Fn::Join" : ["", [
+             "#!/bin/bash -xe\n",
+             "apt-get update\n",
+             "apt-get install -y ansible\n"
+        ]]}},
+        "Tags" : [ {"Key":"Name", "Value":"Ubuntu Ansible" } ]
       }
     },
 
