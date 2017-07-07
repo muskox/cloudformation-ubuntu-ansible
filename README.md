@@ -6,39 +6,39 @@
 
 Login to your AWS console and search for Cloudformation.
 
-![](images/Coudformation1.png)
+![](https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation1.png)
 
 ### Step 2
 
-![](images/Coudformation2.png)
+![](https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation2.png)
 
 ### Step 3
 
 Login to your AWS console and search for Cloudformation.
 
-![](images/Coudformation3.png)
+![](https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation3.png)
 
 ### Step 4
 
-![](images/Coudformation4.png)
+![](https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation4.png)
 
 ### Step 5
 
 Login to your AWS console and search for Cloudformation.
 
-![](images/Coudformation5.png)
+![](https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation5.png)
 
 ### Step 6
 
-!(images/Coudformation6.png)
+!(https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation6.png)
 
 ### Step 7
 
 Login to your AWS console and search for Cloudformation.
 
-![](images/Coudformation7.png)
+![](https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation7.png)
 
 ### Step 8
 
-![](images/Coudformation8.png)
+![](https://raw.githubusercontent.com/muskox/cloudformation-ubuntu-ansible/master/images/Cloudformation8.png)
 
