@@ -6,27 +6,27 @@
 
 Login to your AWS console and search for Cloudformation.
 
-!(images/Coudformation1.png)
+![](images/Coudformation1.png)
 
 ### Step 2
 
-!(images/Coudformation2.png)
+![](images/Coudformation2.png)
 
 ### Step 3
 
 Login to your AWS console and search for Cloudformation.
 
-!(images/Coudformation3.png)
+![](images/Coudformation3.png)
 
 ### Step 4
 
-!(images/Coudformation4.png)
+![](images/Coudformation4.png)
 
 ### Step 5
 
 Login to your AWS console and search for Cloudformation.
 
-!(images/Coudformation5.png)
+![](images/Coudformation5.png)
 
 ### Step 6
 
@@ -36,9 +36,9 @@ Login to your AWS console and search for Cloudformation.
 
 Login to your AWS console and search for Cloudformation.
 
-!(images/Coudformation7.png)
+![](images/Coudformation7.png)
 
 ### Step 8
 
-!(images/Coudformation8.png)
+![](images/Coudformation8.png)
 
