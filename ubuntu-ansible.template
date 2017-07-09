@@ -19,7 +19,7 @@
         "InstanceType" : "m3.medium",
         "SecurityGroups" : [ { "Ref" : "InstanceSecurityGroup" } ],
         "KeyName" : { "Ref" : "KeyName" },
-        "ImageId" : "ami-d15a75c7",
+        "ImageId" : "ami-835b4efa",
         "UserData" : { "Fn::Base64" : { "Fn::Join" : ["", [
              "#!/bin/bash -xe\n",
              "apt-get update\n",
