@@ -1,0 +1,27 @@
+- name: Install the package "nginx"
+  apt:
+    name: nginx
+    state: present
+
+- name: Install the package "git"
+  apt:
+    name: git
+    state: present
+
+- name: Install the package "libcurl4-gnutls-dev"
+  apt:
+    name: libcurl4-gnutls-dev
+    state: present
+
+- name: Install the package "libxml2-dev"
+  apt:
+    name: libxml2-dev
+    state: present
+
+- name: Install the package "libssl-dev"
+  apt:
+    name: libssl-dev
+    state: present
+
+
+
